@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter BLOC
 - 👯 I’m looking to collaborate on Flutter & Java Projects
 - 📫 How to reach me: https://www.linkedin.com/in/sourish-mukherjee/
--->
+[![Sourish's github stats](https://github-readme-stats.vercel.app/api?username=Sourish-Mukherjee)](https://github.com/anuraghazra/github-readme-stats)
